@@ -4,7 +4,7 @@ var mean = require('meanio'),
 	fs = require('fs'),
 	Module = mean.Module;
 
-var MeanGoogleAnalytics = new Module('mean-google-analytics');
+var MeanGoogleAnalytics = new Module('mean-ga');
 
 MeanGoogleAnalytics.register(function(app, auth, database) {
 
