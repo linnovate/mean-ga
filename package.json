@@ -1,7 +1,7 @@
 {
     "name": "mean-ga",
     "version": "0.0.1",
-    "description": "Some description of mean-google-analytics",
+    "description": "Adds google analytics tracking code to MEAN.IO projects",
     "author": {
         "name": "Yonatan Ellman <yonatan@nodeside.com>"
     },
